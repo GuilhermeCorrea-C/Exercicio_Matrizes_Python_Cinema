@@ -1,4 +1,4 @@
-# Exercicio matrizes Python: Exemplo do cinema
+# Exercicio Matrizes **Python**: Exemplo do cinema
 
 Exercício utilizando Python para aprimorar os conhecimentos utilizando matrizes, condicionais, funções e elementos de repetição.
 O exercício proposto foi de um cinema, onde os ingressos têm um valor diferente caso a pessoa seja um estudante. Após a compra do ingresso, o assento deve ser considerado como ocupado, não permitindo a compra de mais ingressos para aquele assento. 
